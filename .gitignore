@@ -1,0 +1,11 @@
+__pycache__
+docker_compose
+ocr_barcode
+saved_images
+=0.11.0
+=1.1.4
+=1.4.1
+=1.18.5
+best.pt
+config.json
+docker_config.json

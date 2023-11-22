@@ -1,0 +1,13 @@
+flask==2.1.2
+kafka-python==2.0.2
+redis==3.5.3
+wget==3.2
+flask-cors==3.0.10
+pymongo==4.0.1
+tldextract==3.3.0
+pymodbus==2.5.3
+ipython==7.33.0
+# paddleocr
+# paddlepaddle
+# pyzbar
+# sudo apt-get install libzbar0
